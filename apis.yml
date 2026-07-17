@@ -1,0 +1,87 @@
+aid: electric-capital
+name: Electric Capital
+description: >-
+  Electric Capital is an engineering-led venture capital firm founded in 2018 and
+  headquartered in Palo Alto, California, investing in founders building frontier
+  technologies across crypto, cryptography, distributed systems, and AI. The firm
+  backs user-owned technology and cryptographic infrastructure that reduces reliance
+  on intermediaries and gives users control, privacy, and access. Electric Capital
+  invests from pre-seed through growth, with typical checks ranging from roughly
+  $1M to $15M+, and has deployed more than $3B since inception across multiple funds
+  (including a $1B raise announced in 2022). Its portfolio spans DeFi, layer-1 and
+  layer-2 infrastructure, exchanges, developer tools, security, identity, and select
+  AI, fintech, healthcare, and deep-tech companies, with notable investments including
+  Solana, Kraken, EigenLayer/EigenCloud, dYdX, Magic Eden, Sui/Mysten Labs, NEAR,
+  Consensys, and Aave. The firm is also known for authoring the widely cited annual
+  Electric Capital Developer Report.
+x-type: venture-capital
+x-category: Venture Capital
+image: https://www.electriccapital.com/favicon.ico
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Series A
+  - Growth
+  - Crypto
+  - Web3
+  - DeFi
+  - Blockchain Infrastructure
+  - Developer Tools
+  - AI
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.electriccapital.com/
+  - type: Portfolio
+    url: https://www.electriccapital.com/investments/
+  - type: Portfolio
+    url: portfolio/electric-capital-portfolio.yml
+  - type: Team
+    url: https://www.electriccapital.com/team/
+  - type: Team
+    url: team/electric-capital-team.yml
+  - type: InvestmentThesis
+    url: https://www.electriccapital.com/content/
+  - type: Blog
+    url: https://www.electriccapital.com/content/
+  - type: Newsletter
+    url: https://electriccapital.substack.com/
+  - type: Jobs
+    url: https://jobs.electriccapital.com/jobs
+  - type: Contact
+    url: https://www.electriccapital.com/contact/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/electric-capital
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/electric-capital
+  - type: Twitter
+    url: https://x.com/electriccapital
+  - type: GitHubOrganization
+    url: https://github.com/electric-capital
+  - type: Features
+    data:
+      - 'Stage: Pre-seed, Seed, Series A, Growth'
+      - 'Typical check: $1M-$15M+'
+      - 'Sectors: crypto, cryptography, distributed systems, DeFi, blockchain infrastructure, AI, fintech, healthcare'
+      - 'Geography: primarily North America, global'
+      - 'Total invested: $3B+ since inception'
+      - 'Fund: $1B raised (announced 2022)'
+      - 'Founded: 2018'
+      - 'HQ: Palo Alto, California'
+    sources:
+      - https://www.electriccapital.com/
+      - https://www.electriccapital.com/investments/
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: https://apisjson.org
+  - FN: Electric Capital
+    url: https://www.electriccapital.com/

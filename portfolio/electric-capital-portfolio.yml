@@ -1,0 +1,822 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.electriccapital.com/investments/
+summary:
+  portfolio_total: 79
+  in_network: 22
+  api_providers: 13
+  missing: 57
+  stubs_created: 0
+companies:
+- name: Aave
+  url: https://aave.com/
+  description: Decentralized non-custodial liquidity and lending protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: aave
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Aerodrome
+  url: https://aerodrome.finance/
+  description: Central liquidity and trading marketplace on the Base network.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aerodrome
+- name: Agentic Data Intelligence
+  url: https://agentic-data.com/
+  description: Data intelligence infrastructure for AI agents.
+  sector: ai
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: agentic-data-intelligence
+- name: Anoma
+  url: https://anoma.net/
+  description: Intent-centric architecture and blockchain for decentralized applications.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: anoma
+- name: Asula
+  url: https://asula.xyz/
+  description: Crypto-native startup building onchain infrastructure.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: asula
+- name: Atrium
+  url: https://atrium.art/
+  description: Onchain platform for digital art and collectibles.
+  sector: nft
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atrium
+- name: Auto Finance
+  url: https://app.auto.finance/
+  description: Automated onchain finance and yield application.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: auto-finance
+- name: Ava Protocol
+  url: https://avaprotocol.org/
+  description: Event-driven automation layer and autonomous transactions for blockchains.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: ava-protocol
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Aven
+  url: https://www.aven.com/
+  description: Crypto-backed credit card and consumer lending product.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aven
+- name: Bitnomial
+  url: https://bitnomial.com/
+  description: Regulated exchange and clearinghouse for crypto derivatives.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitnomial
+- name: Bitwise
+  url: https://bitwiseinvestments.com/
+  description: Crypto index fund and ETF asset manager.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bitwise
+- name: Bluenote
+  url: https://www.bluenotehealth.com/
+  description: Health technology company modernizing patient care.
+  sector: healthcare
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bluenote
+- name: Boom Supersonic
+  url: https://boomsupersonic.com/
+  description: Supersonic commercial aircraft manufacturer.
+  sector: aerospace
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boom-supersonic
+- name: Boost
+  url: https://boost.xyz/
+  description: Onchain incentives and rewards infrastructure.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: boost
+- name: Bullet
+  url: https://www.bullet.xyz/
+  description: High-performance onchain derivatives trading platform.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bullet
+- name: Certora
+  url: https://www.certora.com/
+  description: Formal verification and security tooling for smart contracts.
+  sector: security
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: certora
+- name: ChronicleBio
+  url: https://chroniclebio.com/
+  description: Biotechnology company advancing longevity and health science.
+  sector: healthcare
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: chroniclebio
+- name: Clusters
+  url: https://clusters.xyz/
+  description: Cross-chain naming and identity system for wallets.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: clusters
+- name: CoinList
+  url: https://coinlist.co/
+  description: Token launch and distribution platform for crypto projects.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: coinlist
+- name: Consensys
+  url: https://consensys.io/
+  description: Ethereum software company behind MetaMask and Infura.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: consensys
+- name: Cozy Finance
+  url: https://www.cozy.finance/
+  description: Onchain protection and coverage markets protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: cozy-finance
+- name: Curve
+  url: https://www.curve.finance/
+  description: Decentralized exchange optimized for stablecoin trading.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: curve-finance
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Dialect
+  url: https://www.dialect.to/
+  description: Messaging and smart notifications protocol on Solana.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: dialect
+- name: dYdX
+  url: https://www.dydx.xyz/
+  description: Decentralized exchange for perpetuals and derivatives trading.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: dydx
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: EigenCloud
+  url: https://www.eigencloud.xyz/
+  description: Restaking and programmable trust / shared security platform (EigenLayer).
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: eigenda
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Ellipsis Labs
+  url: https://www.ellipsislabs.xyz/
+  description: Team building the Phoenix on-chain limit order book on Solana.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ellipsis-labs
+- name: Espresso
+  url: https://www.espressosys.com/
+  description: Shared sequencing and confirmation layer for rollups.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: espresso
+- name: Etherealize
+  url: https://www.etherealize.com/
+  description: Institutional gateway and tooling for Ethereum adoption.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: etherealize
+- name: Fluid
+  url: https://fluid.io/
+  description: DeFi liquidity layer combining lending and trading (Instadapp).
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: fluid
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Fordefi
+  url: https://fordefi.com/
+  description: MPC wallet and institutional custody platform for web3.
+  sector: security
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: fordefi
+- name: Genesis Digital Assets
+  url: https://genesisdigitalassets.com/
+  description: Large-scale Bitcoin mining and data center operator.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: genesis-digital-assets
+- name: Hashflow
+  url: https://www.hashflow.com/
+  description: Request-for-quote decentralized exchange with zero slippage.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hashflow
+- name: HealthEx
+  url: https://www.healthex.io/
+  description: Patient-controlled health data exchange and consent platform.
+  sector: healthcare
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: healthex
+- name: Hibachi
+  url: https://hibachi.xyz/
+  description: High-performance onchain trading and exchange platform.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hibachi
+- name: Hourglass
+  url: https://hourglass.com/
+  description: Time-bound tokens and marketplace for DeFi yield positions.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hourglass
+- name: Hyperbeat
+  url: https://www.hyperbeat.org/
+  description: DeFi yield and liquidity products built on Hyperliquid.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hyperbeat
+- name: Immunefi
+  url: https://immunefi.com/
+  description: Bug bounty and security services marketplace for web3.
+  sector: security
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: etherfi
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Infinifi
+  url: https://infinifi.xyz/
+  description: Onchain fixed-income and yield protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: infinifi
+- name: INFINIT
+  url: https://infinit.tech/
+  description: AI-powered DeFi orchestration and agent infrastructure.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: infinit
+- name: Integral
+  url: https://integral.xyz/
+  description: Accounting and financial operations software for crypto companies.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: integral
+- name: Iron Fish
+  url: https://ironfish.network/
+  description: Privacy-focused layer-1 blockchain with confidential transactions.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: iron-fish
+- name: Jito Labs
+  url: https://www.jito.wtf/
+  description: MEV infrastructure and liquid staking for Solana.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: jito
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kiosk
+  url: https://kiosk.app/
+  description: Consumer crypto application and marketplace.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kiosk
+- name: Kraken
+  url: https://www.kraken.com/
+  description: Global cryptocurrency exchange and trading platform.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: kraken
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Kuru
+  url: https://www.kuru.io/
+  description: Fully on-chain central limit order book exchange.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kuru
+- name: Layer3
+  url: https://layer3.xyz/
+  description: Onchain quests, rewards, and attention distribution platform.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: layer3
+- name: LegendTrade
+  url: https://www.legend.trade/
+  description: Onchain derivatives and structured trading platform.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: legendtrade
+- name: Magic Eden
+  url: https://magiceden.io/
+  description: Cross-chain NFT marketplace and trading platform.
+  sector: nft
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: magiceden
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Membrane
+  url: https://membranelabs.com/
+  description: Institutional credit and portfolio management for digital assets.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: membrane
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Monad
+  url: https://www.monad.xyz/
+  description: High-performance EVM-compatible layer-1 blockchain.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: monad
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: MoreMarkets
+  url: https://www.moremarkets.xyz/
+  description: Cross-chain lending and borrowing marketplace.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moremarkets
+- name: Mysten Labs
+  url: https://www.mystenlabs.com/
+  description: Creator of the Sui layer-1 blockchain and Move ecosystem.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: sui
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: NEAR
+  url: https://near.org/
+  description: Layer-1 blockchain focused on usability and scalability.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: near
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Nestcoin
+  url: https://nestcoin.com/
+  description: Consumer crypto and payments products for emerging markets.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nestcoin
+- name: Noox
+  url: https://www.noox.world/
+  description: On-chain achievements and reputation credentials.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: noox
+- name: NotePass
+  url: https://notepass.ai/
+  description: AI-powered note-taking and knowledge assistant.
+  sector: ai
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: notepass
+- name: 'OFF'
+  url: https://www.off.live/
+  description: Onchain live entertainment and fan engagement platform.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: 'off'
+- name: OpenBlock Labs
+  url: https://www.openblocklabs.com/
+  description: Onchain data analytics and incentive optimization platform.
+  sector: data
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: openblock-labs
+- name: Pendle
+  url: https://www.pendle.finance/
+  description: Protocol for tokenizing and trading future yield.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: pendle
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Pocket Protector
+  url: https://www.pocketprotector.xyz/
+  description: Consumer-focused crypto security and wallet protection.
+  sector: security
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: pocket-protector
+- name: Privy
+  url: https://www.privy.io/
+  description: Embedded wallet and authentication infrastructure (acquired by Stripe).
+  sector: infrastructure
+  stage: unknown
+  status: acquired
+  source: https://www.electriccapital.com/investments/
+  slug: privy
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Puffer Finance
+  url: https://www.puffer.fi/
+  description: Native liquid restaking protocol on EigenLayer.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: puffer-finance
+- name: Radicle
+  url: https://radicle.xyz/
+  description: Peer-to-peer, decentralized code collaboration network.
+  sector: developer-tools
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: radicle
+- name: Re
+  url: https://re.xyz/
+  description: Onchain reinsurance and risk marketplace.
+  sector: fintech
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: re
+- name: Rocket
+  url: https://userocket.app/
+  description: Consumer crypto payments and finance application.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: rocket
+- name: Royco
+  url: https://www.royco.org/
+  description: Incentivized action market for onchain liquidity.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: royco
+- name: SF Compute
+  url: https://sfcompute.com/
+  description: Marketplace for large-scale GPU and AI compute.
+  sector: ai
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: sfcompute
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Silo Finance
+  url: https://silo.finance/
+  description: Isolated-market lending and borrowing protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: silo-finance
+- name: Slingshot
+  url: https://slingshot.finance/
+  description: Multichain trading app (acquired by Magic Eden).
+  sector: defi
+  stage: unknown
+  status: acquired
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: slingshot
+- name: Solana
+  url: https://solana.com/
+  description: High-throughput layer-1 blockchain.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: solana
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: SpruceID
+  url: https://spruceid.com/
+  description: Decentralized identity and verifiable credentials infrastructure.
+  sector: identity
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: spruceid
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Squads
+  url: https://squads.so/
+  description: Multisig and smart account infrastructure on Solana.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: squads
+- name: Sui
+  url: https://sui.io/
+  description: Layer-1 blockchain built on the Move programming language.
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: sui
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Term Finance
+  url: https://www.term.finance/
+  description: Fixed-rate, non-custodial lending protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: term-finance
+- name: Tonk
+  url: https://tonk.xyz/
+  description: Toolkit for building interoperable onchain apps.
+  sector: developer-tools
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tonk
+- name: Unto Labs
+  url: https://untolabs.com/
+  description: Crypto research and protocol development lab.
+  sector: crypto
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: unto-labs
+- name: Walrus Protocol
+  url: https://www.walrus.xyz/
+  description: Decentralized storage and data availability protocol (Mysten).
+  sector: infrastructure
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  in_network: false
+  is_api_provider: false
+  suggested_slug: walrus-protocol
+- name: Wasabi
+  url: https://wasabi.xyz/
+  description: Onchain perpetuals and leveraged trading protocol.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: wasabi
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
+- name: Waterfall
+  url: https://www.waterfall.market/
+  description: Onchain fixed-income and structured credit marketplace.
+  sector: defi
+  stage: unknown
+  status: active
+  source: https://www.electriccapital.com/investments/
+  slug: waterfall
+  in_network: true
+  is_api_provider: false
+  matched_by: name-slug
