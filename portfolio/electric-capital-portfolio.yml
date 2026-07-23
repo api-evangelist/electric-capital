@@ -3,9 +3,9 @@ method: searched
 source: https://www.electriccapital.com/investments/
 summary:
   portfolio_total: 79
-  in_network: 22
-  api_providers: 13
-  missing: 57
+  in_network: 79
+  api_providers: 27
+  missing: 0
   stubs_created: 0
 companies:
 - name: Aave
@@ -26,9 +26,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aerodrome
+  slug: aerodrome
+  matched_by: domain
 - name: Agentic Data Intelligence
   url: https://agentic-data.com/
   description: Data intelligence infrastructure for AI agents.
@@ -36,9 +37,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: agentic-data-intelligence
+  slug: agentic-data-intelligence
+  matched_by: domain
 - name: Anoma
   url: https://anoma.net/
   description: Intent-centric architecture and blockchain for decentralized applications.
@@ -46,9 +48,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: anoma
+  slug: anoma
+  matched_by: domain
 - name: Asula
   url: https://asula.xyz/
   description: Crypto-native startup building onchain infrastructure.
@@ -56,9 +59,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: asula
+  slug: asula
+  matched_by: domain
 - name: Atrium
   url: https://atrium.art/
   description: Onchain platform for digital art and collectibles.
@@ -66,9 +70,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atrium
+  slug: atrium
+  matched_by: name-slug
 - name: Auto Finance
   url: https://app.auto.finance/
   description: Automated onchain finance and yield application.
@@ -76,9 +81,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: auto-finance
+  slug: auto-finance
+  matched_by: domain
 - name: Ava Protocol
   url: https://avaprotocol.org/
   description: Event-driven automation layer and autonomous transactions for blockchains.
@@ -88,8 +94,8 @@ companies:
   source: https://www.electriccapital.com/investments/
   slug: ava-protocol
   in_network: true
-  is_api_provider: false
-  matched_by: name-slug
+  is_api_provider: true
+  matched_by: domain
 - name: Aven
   url: https://www.aven.com/
   description: Crypto-backed credit card and consumer lending product.
@@ -97,9 +103,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aven
+  slug: aven
+  matched_by: domain
 - name: Bitnomial
   url: https://bitnomial.com/
   description: Regulated exchange and clearinghouse for crypto derivatives.
@@ -107,9 +114,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bitnomial
+  slug: bitnomial
+  matched_by: domain
 - name: Bitwise
   url: https://bitwiseinvestments.com/
   description: Crypto index fund and ETF asset manager.
@@ -117,9 +125,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bitwise
+  slug: bitwise-investments
+  matched_by: domain
 - name: Bluenote
   url: https://www.bluenotehealth.com/
   description: Health technology company modernizing patient care.
@@ -127,9 +136,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bluenote
+  slug: bluenote
+  matched_by: name-slug
 - name: Boom Supersonic
   url: https://boomsupersonic.com/
   description: Supersonic commercial aircraft manufacturer.
@@ -137,9 +147,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: boom-supersonic
+  slug: boom-supersonic
+  matched_by: domain
 - name: Boost
   url: https://boost.xyz/
   description: Onchain incentives and rewards infrastructure.
@@ -147,9 +158,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: boost
+  in_network: true
+  is_api_provider: true
+  slug: boost
+  matched_by: domain
 - name: Bullet
   url: https://www.bullet.xyz/
   description: High-performance onchain derivatives trading platform.
@@ -157,9 +169,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: bullet
+  in_network: true
+  is_api_provider: true
+  slug: bullet
+  matched_by: domain
 - name: Certora
   url: https://www.certora.com/
   description: Formal verification and security tooling for smart contracts.
@@ -167,9 +180,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: certora
+  slug: certora
+  matched_by: domain
 - name: ChronicleBio
   url: https://chroniclebio.com/
   description: Biotechnology company advancing longevity and health science.
@@ -177,9 +191,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: chroniclebio
+  slug: chroniclebio
+  matched_by: domain
 - name: Clusters
   url: https://clusters.xyz/
   description: Cross-chain naming and identity system for wallets.
@@ -187,9 +202,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: clusters
+  in_network: true
+  is_api_provider: true
+  slug: clusters
+  matched_by: domain
 - name: CoinList
   url: https://coinlist.co/
   description: Token launch and distribution platform for crypto projects.
@@ -197,9 +213,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: coinlist
+  in_network: true
+  is_api_provider: true
+  slug: coinlist
+  matched_by: domain
 - name: Consensys
   url: https://consensys.io/
   description: Ethereum software company behind MetaMask and Infura.
@@ -207,9 +224,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: consensys
+  slug: consensys
+  matched_by: domain
 - name: Cozy Finance
   url: https://www.cozy.finance/
   description: Onchain protection and coverage markets protocol.
@@ -217,9 +235,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cozy-finance
+  slug: cozy-finance
+  matched_by: domain
 - name: Curve
   url: https://www.curve.finance/
   description: Decentralized exchange optimized for stablecoin trading.
@@ -238,9 +257,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: dialect
+  in_network: true
+  is_api_provider: true
+  slug: dialect
+  matched_by: domain
 - name: dYdX
   url: https://www.dydx.xyz/
   description: Decentralized exchange for perpetuals and derivatives trading.
@@ -270,9 +290,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ellipsis-labs
+  slug: ellipsis-labs
+  matched_by: domain
 - name: Espresso
   url: https://www.espressosys.com/
   description: Shared sequencing and confirmation layer for rollups.
@@ -280,9 +301,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: espresso
+  slug: espresso
+  matched_by: domain
 - name: Etherealize
   url: https://www.etherealize.com/
   description: Institutional gateway and tooling for Ethereum adoption.
@@ -290,9 +312,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: etherealize
+  slug: etherealize
+  matched_by: domain
 - name: Fluid
   url: https://fluid.io/
   description: DeFi liquidity layer combining lending and trading (Instadapp).
@@ -311,9 +334,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: fordefi
+  in_network: true
+  is_api_provider: true
+  slug: fordefi
+  matched_by: domain
 - name: Genesis Digital Assets
   url: https://genesisdigitalassets.com/
   description: Large-scale Bitcoin mining and data center operator.
@@ -321,9 +345,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: genesis-digital-assets
+  slug: genesis-digital-assets
+  matched_by: domain
 - name: Hashflow
   url: https://www.hashflow.com/
   description: Request-for-quote decentralized exchange with zero slippage.
@@ -331,9 +356,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hashflow
+  slug: hashflow
+  matched_by: domain
 - name: HealthEx
   url: https://www.healthex.io/
   description: Patient-controlled health data exchange and consent platform.
@@ -341,9 +367,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: healthex
+  slug: healthex
+  matched_by: domain
 - name: Hibachi
   url: https://hibachi.xyz/
   description: High-performance onchain trading and exchange platform.
@@ -351,9 +378,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hibachi
+  in_network: true
+  is_api_provider: true
+  slug: hibachi
+  matched_by: domain
 - name: Hourglass
   url: https://hourglass.com/
   description: Time-bound tokens and marketplace for DeFi yield positions.
@@ -361,9 +389,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hourglass
+  slug: hourglass
+  matched_by: domain
 - name: Hyperbeat
   url: https://www.hyperbeat.org/
   description: DeFi yield and liquidity products built on Hyperliquid.
@@ -371,9 +400,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hyperbeat
+  in_network: true
+  is_api_provider: true
+  slug: hyperbeat
+  matched_by: domain
 - name: Immunefi
   url: https://immunefi.com/
   description: Bug bounty and security services marketplace for web3.
@@ -381,7 +411,7 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: etherfi
+  slug: celer-network
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -392,9 +422,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: infinifi
+  slug: infinifi
+  matched_by: domain
 - name: INFINIT
   url: https://infinit.tech/
   description: AI-powered DeFi orchestration and agent infrastructure.
@@ -402,9 +433,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: infinit
+  slug: infinit
+  matched_by: domain
 - name: Integral
   url: https://integral.xyz/
   description: Accounting and financial operations software for crypto companies.
@@ -412,9 +444,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: integral
+  slug: integral
+  matched_by: name-slug
 - name: Iron Fish
   url: https://ironfish.network/
   description: Privacy-focused layer-1 blockchain with confidential transactions.
@@ -422,9 +455,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iron-fish
+  slug: iron-fish
+  matched_by: domain
 - name: Jito Labs
   url: https://www.jito.wtf/
   description: MEV infrastructure and liquid staking for Solana.
@@ -443,9 +477,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kiosk
+  slug: kiosk
+  matched_by: domain
 - name: Kraken
   url: https://www.kraken.com/
   description: Global cryptocurrency exchange and trading platform.
@@ -464,9 +499,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: kuru
+  in_network: true
+  is_api_provider: true
+  slug: kuru
+  matched_by: domain
 - name: Layer3
   url: https://layer3.xyz/
   description: Onchain quests, rewards, and attention distribution platform.
@@ -474,9 +510,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: layer3
+  slug: layer3
+  matched_by: domain
 - name: LegendTrade
   url: https://www.legend.trade/
   description: Onchain derivatives and structured trading platform.
@@ -484,9 +521,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: legendtrade
+  in_network: true
+  is_api_provider: true
+  slug: legendtrade
+  matched_by: domain
 - name: Magic Eden
   url: https://magiceden.io/
   description: Cross-chain NFT marketplace and trading platform.
@@ -527,9 +565,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moremarkets
+  slug: moremarkets
+  matched_by: domain
 - name: Mysten Labs
   url: https://www.mystenlabs.com/
   description: Creator of the Sui layer-1 blockchain and Move ecosystem.
@@ -537,9 +576,9 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: sui
+  slug: mysten-labs
   in_network: true
-  is_api_provider: true
+  is_api_provider: false
   matched_by: domain
 - name: NEAR
   url: https://near.org/
@@ -559,9 +598,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nestcoin
+  in_network: true
+  is_api_provider: true
+  slug: nestcoin
+  matched_by: domain
 - name: Noox
   url: https://www.noox.world/
   description: On-chain achievements and reputation credentials.
@@ -569,9 +609,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: noox
+  slug: noox
+  matched_by: domain
 - name: NotePass
   url: https://notepass.ai/
   description: AI-powered note-taking and knowledge assistant.
@@ -579,9 +620,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: notepass
+  slug: notepass
+  matched_by: domain
 - name: 'OFF'
   url: https://www.off.live/
   description: Onchain live entertainment and fan engagement platform.
@@ -589,9 +631,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 'off'
+  slug: 'off'
+  matched_by: domain
 - name: OpenBlock Labs
   url: https://www.openblocklabs.com/
   description: Onchain data analytics and incentive optimization platform.
@@ -599,9 +642,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: openblock-labs
+  slug: openblock-labs
+  matched_by: domain
 - name: Pendle
   url: https://www.pendle.finance/
   description: Protocol for tokenizing and trading future yield.
@@ -620,9 +664,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pocket-protector
+  slug: pocket-protector
+  matched_by: domain
 - name: Privy
   url: https://www.privy.io/
   description: Embedded wallet and authentication infrastructure (acquired by Stripe).
@@ -641,9 +686,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: puffer-finance
+  slug: puffer-finance
+  matched_by: domain
 - name: Radicle
   url: https://radicle.xyz/
   description: Peer-to-peer, decentralized code collaboration network.
@@ -651,9 +697,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: radicle
+  in_network: true
+  is_api_provider: true
+  slug: radicle
+  matched_by: domain
 - name: Re
   url: https://re.xyz/
   description: Onchain reinsurance and risk marketplace.
@@ -661,9 +708,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: re
+  in_network: true
+  is_api_provider: true
+  slug: re
+  matched_by: domain
 - name: Rocket
   url: https://userocket.app/
   description: Consumer crypto payments and finance application.
@@ -671,9 +719,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rocket
+  slug: rocket
+  matched_by: name-slug
 - name: Royco
   url: https://www.royco.org/
   description: Incentivized action market for onchain liquidity.
@@ -681,9 +730,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: royco
+  slug: royco
+  matched_by: domain
 - name: SF Compute
   url: https://sfcompute.com/
   description: Marketplace for large-scale GPU and AI compute.
@@ -702,9 +752,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: silo-finance
+  slug: silo-finance
+  matched_by: domain
 - name: Slingshot
   url: https://slingshot.finance/
   description: Multichain trading app (acquired by Magic Eden).
@@ -712,9 +763,10 @@ companies:
   stage: unknown
   status: acquired
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: slingshot
+  slug: slingshot
+  matched_by: domain
 - name: Solana
   url: https://solana.com/
   description: High-throughput layer-1 blockchain.
@@ -744,9 +796,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: squads
+  slug: squads
+  matched_by: domain
 - name: Sui
   url: https://sui.io/
   description: Layer-1 blockchain built on the Move programming language.
@@ -765,9 +818,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: term-finance
+  slug: term-finance
+  matched_by: domain
 - name: Tonk
   url: https://tonk.xyz/
   description: Toolkit for building interoperable onchain apps.
@@ -775,9 +829,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tonk
+  slug: tonk
+  matched_by: domain
 - name: Unto Labs
   url: https://untolabs.com/
   description: Crypto research and protocol development lab.
@@ -785,9 +840,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: unto-labs
+  slug: unto-labs
+  matched_by: domain
 - name: Walrus Protocol
   url: https://www.walrus.xyz/
   description: Decentralized storage and data availability protocol (Mysten).
@@ -795,9 +851,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: false
-  is_api_provider: false
-  suggested_slug: walrus-protocol
+  in_network: true
+  is_api_provider: true
+  slug: walrus-protocol
+  matched_by: domain
 - name: Wasabi
   url: https://wasabi.xyz/
   description: Onchain perpetuals and leveraged trading protocol.
