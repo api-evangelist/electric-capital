@@ -1,4 +1,39 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: electric-capital
-leads: []
+leads:
+- name: Atrium
+  url: https://atrium.art/
+  suggested_slug: atrium-art
+  sector: nft
+  source_vc: electric-capital
+  source: https://www.electriccapital.com/investments/
+  stub_created: false
+- name: Bluenote
+  url: https://www.bluenotehealth.com/
+  suggested_slug: bluenotehealth-com
+  sector: healthcare
+  source_vc: electric-capital
+  source: https://www.electriccapital.com/investments/
+  stub_created: false
+- name: Membrane
+  url: https://membranelabs.com/
+  suggested_slug: membranelabs-com
+  sector: fintech
+  source_vc: electric-capital
+  source: https://www.electriccapital.com/investments/
+  stub_created: false
+- name: Rocket
+  url: https://userocket.app/
+  suggested_slug: userocket-app
+  sector: crypto
+  source_vc: electric-capital
+  source: https://www.electriccapital.com/investments/
+  stub_created: false
+- name: Waterfall
+  url: https://www.waterfall.market/
+  suggested_slug: waterfall-market
+  sector: defi
+  source_vc: electric-capital
+  source: https://www.electriccapital.com/investments/
+  stub_created: false

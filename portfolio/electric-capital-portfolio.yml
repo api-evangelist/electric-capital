@@ -3,9 +3,9 @@ method: searched
 source: https://www.electriccapital.com/investments/
 summary:
   portfolio_total: 79
-  in_network: 79
+  in_network: 74
   api_providers: 27
-  missing: 0
+  missing: 5
   stubs_created: 0
 companies:
 - name: Aave
@@ -70,10 +70,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: atrium
-  matched_by: name-slug
+  x-name-collision: atrium
+  suggested_slug: atrium-art
 - name: Auto Finance
   url: https://app.auto.finance/
   description: Automated onchain finance and yield application.
@@ -136,10 +136,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: bluenote
-  matched_by: name-slug
+  x-name-collision: bluenote
+  suggested_slug: bluenotehealth-com
 - name: Boom Supersonic
   url: https://boomsupersonic.com/
   description: Supersonic commercial aircraft manufacturer.
@@ -411,7 +411,7 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: celer-network
+  slug: immunefi
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -532,7 +532,7 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: magiceden
+  slug: magic-eden
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -543,10 +543,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: membrane
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: membrane
+  suggested_slug: membranelabs-com
 - name: Monad
   url: https://www.monad.xyz/
   description: High-performance EVM-compatible layer-1 blockchain.
@@ -719,10 +719,10 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: rocket
-  matched_by: name-slug
+  x-name-collision: rocket
+  suggested_slug: userocket-app
 - name: Royco
   url: https://www.royco.org/
   description: Incentivized action market for onchain liquidity.
@@ -873,7 +873,7 @@ companies:
   stage: unknown
   status: active
   source: https://www.electriccapital.com/investments/
-  slug: waterfall
-  in_network: true
+  in_network: false
   is_api_provider: false
-  matched_by: name-slug
+  x-name-collision: waterfall
+  suggested_slug: waterfall-market
